@@ -9,7 +9,7 @@ Thanks: http://github.com/highorderbit/xcode-configuration
 * To install the custom Templates run:
  
 <pre>
-git clone git@github.com:marforic/XCodeCustomTemplates.git
+git clone git://github.com/marforic/XCodeCustomTemplates.git
 cd XCodeCustomTemplates/
 chmod u+x ./install_templates.sh
 ./install_templates.sh "Name Surname" "Email" "Company name"
