@@ -1,4 +1,6 @@
 //
+//  «FILENAME»
+//
 //  Copyright 
 //      «UNAME» - «DEVELOPEREMAIL»
 //      «ORGANIZATIONNAME» 
@@ -18,17 +20,23 @@
 
 #pragma mark Memory Management
 
-- (id)init {
-	if (self = [super init]) {
-		
+- (id)initWithFrame:(CGRect)frame {
+	if (self = [super initWithFrame:frame]) {
+		// Initialization code
 	}
+
 	return self;
 }
 
 - (void)dealloc {
-	[super dealloc];
+    [super dealloc];
 }
 
 #pragma mark -
+#pragma mark View Methods
+
+- (void)drawRect:(CGRect)rect {
+	// Drawing code
+}
 
 @end

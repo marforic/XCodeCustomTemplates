@@ -1,4 +1,6 @@
 //
+//  «FILENAME»
+//
 //  Copyright 
 //      «UNAME» - «DEVELOPEREMAIL»
 //      «ORGANIZATIONNAME» 
@@ -18,8 +20,8 @@
 
 #pragma mark Memory Management
 
-- (id)initWithCoder:(NSCoder *)coder {
-	if (self = [super initWithCoder:coder]) {
+- (id)init {
+	if (self = [super init]) {
 		
 	}
 	return self;
@@ -30,7 +32,5 @@
 }
 
 #pragma mark -
-#pragma mark Cell Methods
-
 
 @end

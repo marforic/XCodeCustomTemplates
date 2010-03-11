@@ -1,4 +1,6 @@
 //
+//  «FILENAME»
+//
 //  Copyright 
 //      «UNAME» - «DEVELOPEREMAIL»
 //      «ORGANIZATIONNAME» 
@@ -6,7 +8,7 @@
 //  All rights reserved.
 //
 
-@interface «FILEBASENAMEASIDENTIFIER» : UIViewController {
+@interface «FILEBASENAMEASIDENTIFIER» : UITableViewCell {
 	@private
 	
 }

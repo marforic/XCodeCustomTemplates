@@ -8,6 +8,11 @@
 //  All rights reserved.
 //
 
-@interface ClassName (CategoryName)
+@interface «FILEBASENAMEASIDENTIFIER» : UITableViewController {
+	@private
+	
+}
+
+//@property(nonatomic, retain)
 
 @end
