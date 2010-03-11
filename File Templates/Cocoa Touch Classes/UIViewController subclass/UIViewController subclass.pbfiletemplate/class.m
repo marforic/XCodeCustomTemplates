@@ -21,7 +21,7 @@
 #pragma mark Memory Management
 
 - (id)init {
-	if (self = [super initWithNibName:«FILEBASENAMEASIDENTIFIER» bundle:nil]) {
+	if (self = [super initWithNibName:@"«FILEBASENAMEASIDENTIFIER»" bundle:nil]) {
 		
 	}
 	return self;
