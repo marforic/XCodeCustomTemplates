@@ -20,6 +20,12 @@
 		</dict>
 		<dict>
 			<key>Key</key>
+			<string>TVCellXib</string>
+			<key>Title</key>
+			<string>UITableViewCell with Xib</string>
+		</dict>
+		<dict>
+			<key>Key</key>
 			<string>View</string>
 			<key>Title</key>
 			<string>UIView</string>
@@ -33,6 +39,8 @@
 		<string>NSObject subclass</string>
 		<key>TVCell</key>
 		<string>UITableViewCell subclass</string>
+		<key>TVCellXib</key>
+		<string>UITableViewCell with Xib</string>
 		<key>View</key>
 		<string>UIView subclass</string>
 	</dict>
